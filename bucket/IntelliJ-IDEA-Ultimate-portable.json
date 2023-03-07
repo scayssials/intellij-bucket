@@ -9,7 +9,7 @@
     "changelog": "https://www.jetbrains.com/idea/whatsnew/",
     "url": [
         "https://download.jetbrains.com/idea/ideaIU-2022.3.2.win.zip",
-        "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
+        "https://raw.githubusercontent.com/scayssials/intellij-bucket/master/scripts/portable.ps1"
     ],
     "hash": [
         "050a236427715e8cccfea74548bd48a54704fb1768446258d7fca33445933c90",
